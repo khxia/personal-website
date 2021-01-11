@@ -32,7 +32,7 @@ const projects = [
         title: "Personal Website",
         description: "This website!",
         link: "/",
-        github: "",
+        github: "https://github.com/khxia/personal-website",
         tags: "ReactJS, NextJS, TypeScript, Material UI"
     }
 ];

@@ -5,6 +5,9 @@ import ProjectsPage from '../components/ProjectsPage/ProjectsPage'
 export default function Projects() {
     return(
         <Layout>
+            <Head>
+            <title>Projects | {siteTitle}</title>
+            </Head>
             <ProjectsPage />
         </Layout>
     );
