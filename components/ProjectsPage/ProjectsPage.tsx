@@ -14,7 +14,7 @@ const projects = [
     {
         imagePath: "/images/projects/anirec.PNG",
         title: "AniRec | Anime Recommender API",
-        description: "A website that recommends you anime based on a few questions. There is also an API available to incorporate this into your own apps.",
+        description: "A website that recommends you anime based on a series of questions. There is also an API available to incorporate this into your own apps.",
         link: "https://ani-rec.herokuapp.com/",
         github: "https://github.com/khxia/AniRec",
         tags: "ReactJS, ExpressJS, MongoDB, API, Material UI, JavaScript"
