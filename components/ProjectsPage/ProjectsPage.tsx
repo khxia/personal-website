@@ -12,6 +12,14 @@ import GitHubIcon from '@material-ui/icons/GitHub';
 
 const projects = [
     {
+        imagePath: "/images/projects/anirec.PNG",
+        title: "AniRec | Anime Recommender API",
+        description: "A website that recommends you anime based on a few questions. There is also an API available to incorporate this into your own apps.",
+        link: "https://ani-rec.herokuapp.com/",
+        github: "https://github.com/khxia/AniRec",
+        tags: "ReactJS, ExpressJS, MongoDB, API, Material UI, JavaScript"
+    },
+    {
         imagePath: "/images/projects/hack.PNG",
         title: "UCLA ACM Hack Website",
         description: "The official website for UCLA ACM's Hack committee.",
