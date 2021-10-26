@@ -6,7 +6,7 @@ import Link from 'next/link'
 import Date from '../components/date'
 import { GetStaticProps } from 'next'
 
-const introduction = `👋 Hi, my name is Alex Xia, a sophomore Computer Science major at UCLA. 
+const introduction = `👋 Hi, my name is Alex Xia, a Computer Science major at UCLA. 
 I'm passionate about creating things, learning new things, and teaching people.`;
 
 const interests = `Aside from coding, I also do many other things in my free time. These include: anime, video games, piano, and badminton.`;
@@ -34,7 +34,7 @@ export default function Home({
         Aside from coding, I also do many other things in my free time. 
         These include: <a target="_blank" className={utilStyles.bodyLink} href="https://khxia.github.io/anime_list">anime</a>
         , piano 
-        , <a target="_blank" className={utilStyles.bodyLink} href="https://na.op.gg/summoner/userName=RoyalCandy">video games</a>
+        , video games
         , badminton, and listening to <a target="_blank" className={utilStyles.bodyLink} href="https://open.spotify.com/user/meika-ixa">music</a>.
         I have a <a target="_blank" className={utilStyles.bodyLink} href="https://khxia.github.io">blog</a> too!
         </p>
